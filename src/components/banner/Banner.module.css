@@ -1,0 +1,35 @@
+.banner_content img{
+    width: 100%;
+}
+.banner_content{
+    position: relative;
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.h2{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    margin: 40px 0;
+}
+.centered{
+    text-align: center;
+}
+.button{
+    width: 251px;
+    padding: 20px 0;
+    border-radius: 10px;
+    background-color: rgb(115, 81, 132);
+
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}

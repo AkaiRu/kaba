@@ -1,0 +1,27 @@
+.footer{
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+.footer_content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+p{
+    color: white;
+    font-family: 'Montserrat';
+}
+a{
+    color: white;
+    font-family: 'Montserrat';
+}
+.footer_column{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.footer_right{
+    text-align: right;
+}
